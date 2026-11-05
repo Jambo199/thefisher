@@ -1,0 +1,30 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+src/generated/resources/.cache
+
+# other
+eclipse
+run
+runs
+run-data
+
+repo
+
+# third-party mod jars (kept locally, not uploaded)
+.compatmods/
