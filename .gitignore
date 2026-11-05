@@ -25,6 +25,3 @@ runs
 run-data
 
 repo
-
-# third-party mod jars (kept locally, not uploaded)
-.compatmods/
